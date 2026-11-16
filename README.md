@@ -11,3 +11,7 @@ The two images in `assets/` are static page snapshots based on the supplied stud
 ## Contact
 
 The portfolio displays `jajat3nanda@gmail.com` as the contact address.
+
+## Internship page
+
+Open `internship.html` for the internship page. It honestly states that no internships have been completed yet and links back to the project work.
