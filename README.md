@@ -1,15 +1,13 @@
 # Yajat Nanda — Portfolio
 
-A responsive portfolio built with plain HTML and CSS. No build tools or dependencies are required.
+A responsive portfolio built with plain HTML and CSS. Open `index.html` in a browser to preview it.
 
-## Preview
+## Featured project
 
-Open `index.html` in a browser.
+The portfolio showcases CampusPass Gate Pass from the supplied GatePass_Project folder. It is a PHP and MySQL college gate-pass prototype with student QR passes, a guard sign-in and scan workflow, college-ID checks, entry/exit recording, and a gate movement log.
 
-## Included project
+The two images in `assets/` show the student-pass and guard-desk page designs using the project's anonymous demo records.
 
-GatePass is featured with links to its [live site](https://yajat400.github.io/gate-pass/) and [GitHub repository](https://github.com/yajat400/gate-pass). The project description is based on the repository README.
+## Contact
 
-## Personalize
-
-The page currently lists Yajat Nanda as a BTech student at South Asian University and uses `jajat3nanda@gmail.com` as the contact email. Update these details if you would like different public information.
+The portfolio displays `jajat3nanda@gmail.com` as the contact address.
